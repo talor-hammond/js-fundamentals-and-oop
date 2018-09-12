@@ -36,6 +36,14 @@ A callback is a function that executes after another function has executed.
 ## Recursion
 
 ## Scope
+Two types of 'scope' in JavaScript: **global** and **local**
+
+Outermost-scope is global; when we declare a function, it creates a new instance of local-scope.
+From inside that function block: we can reach outward to grab variables -- but we can't reach inward from global scope.
+
+* Separates logic
+* Narrows focus; improves code-quality
+* Improves readability
 
 ## `call()`, `apply()`, and `bind()`
 
