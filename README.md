@@ -60,6 +60,10 @@ From inside that function block: we can reach outward to grab variables -- but w
 ## MVC, & design-patterns
 
 ## IIFE
+'Immediately-invoked function expressions'
+- Function is fired immediately after declaration
+
+- Avoids 'polluting' code; code-clarity
 
 ## Event-loop / the 'stack'
 
