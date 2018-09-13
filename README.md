@@ -61,6 +61,8 @@ From inside that function block: we can reach outward to grab variables -- but w
 
 ## IIFE
 
+## Event-loop / the 'stack'
+
 ## Async / Await
 Provides a way to maintain asynchronous-processing in a more synchronous fashion
 * in that sense, have more control over the behaviour of your program
