@@ -88,8 +88,8 @@ Provides a way to maintain asynchronous-processing in a more synchronous fashion
 
 Most relevant: performing a REST API request -- you want the data to load before pushing it to the view. We use `await` to tell it to resolve fully before continuining
 
-## Promises
-
 ## `fetch` API
+Interface provided by the browser which lets us make XMLHttpRequests to other places on the web.
+* Extremely tedious to do manually, so we can use a library like `superagent` to make our lives easier
 
 ## RESTful APIs
