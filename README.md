@@ -65,6 +65,10 @@ From inside that function block: we can reach outward to grab variables -- but w
 ## Prototypal-inheritance
 
 ## The DOM
+* Programming API / JavaScript Object Representation of our webpage
+* Defines the logical structure of documents and the way a document is accessed and manipulated
+    * Exposes methods like `.addEventListener()` on pieces of the webpage
+    * Manipulate styles, animation, deletion, change values
 
 ## The internetttttt 
 
